@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name":"New GFDA tab",
+  "description": "A new tab plugin which displays a random GFDA",
+  "version": "1.0.1",
+  "chrome_url_overrides": {
+    "newtab": "gfda.html"
+  },
+  "icons": {
+    "128": "./images/logo.png"
+  }
+}
