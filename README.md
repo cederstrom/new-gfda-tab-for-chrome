@@ -5,6 +5,10 @@ A new tab plugin which displays a random GFDA
 This plugin replaces the default new tab with a random advice from https://goodfuckingdesignadvice.com/
 All the advices, CSS and some JavaScript have been copied from https://goodfuckingdesignadvice.com/ and then modified to my needs.
 
+## Screenshots
+
+<img alt="Screenshot of a new tab" src="./images/screenshot1280x800.png" width="600" />
+
 ## Installation
 
 You can install this plugin from the [Chrome Web Store](https://chrome.google.com/webstore/detail/new-gfda-tab/gbgjbabfffljcgcaeggipokmibddbjmg).
