@@ -16,6 +16,7 @@ You can install this plugin from the [Chrome Web Store](https://chrome.google.co
 or
 
 You can install it by:
+
 1. Clone this repo to your local computer
 2. Open [Chrome extensions page](chrome://extensions/)
 3. Enable "Developer mode" by checking the checkbox in the top right corner
