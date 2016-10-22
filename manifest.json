@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
   "name":"New GFDA tab",
-  "description": "A new tab plugin which displays a random GFDA",
-  "version": "1.0.1",
+  "short_name": "New GFDA tab",
+  "description": "A new tab plugin which displays a random GFDA. More can be found at https://goodfuckingdesignadvice.com/",
+  "version": "1.0.3",
   "chrome_url_overrides": {
     "newtab": "gfda.html"
   },
