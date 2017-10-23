@@ -298,9 +298,17 @@ var advices = [
     [297, "Think like a fucking beginner."],
     [298, "Stop doing fucking busywork."],
     [299, "Listen to your fucking intuition."],
-    [300, "Put it all on the fucking line."],
-    [301, "Creativity is built on fucking failure."],
-    [302, "Experimentation leads to fucking innovation."]
+    [300,'Put it all on the fucking line.'],
+    [301,'Creativity is built on fucking failure.'],
+    [302,'Experimentation leads to fucking innovation.'],
+    [303,'Work together as a fucking team.'],
+    [304,'Don’t wait to be fucking discovered.'],
+    [305,'Create your own fucking opportunities.'],
+    [306,'Fall in love with repetition and fucking practice.'],
+    [307,'Celebrate your fucking failures.'],
+    [308,'Make the fucking leap.'],
+    [309,'Be fucking persistent.'],
+    [310,'Be driven, not fucking impatient.'],
 ];
 
 function showNewAdvice() {
